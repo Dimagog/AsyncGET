@@ -1,7 +1,9 @@
 # AsyncGET
 
 This is sample code for
-[this post on Dimagog Blog](http://localhost:4000/blog/clojure/clojurescript/2013/07/12/making-http-requests-from-clojurescript-with-core.async/).
+[Making HTTP requests from ClojureScript with core.async](http://dimagog.github.io/blog/clojure/clojurescript/2013/07/12/making-http-requests-from-clojurescript-with-core.async/)
+post on
+[Dimagog Blog](http://dimagog.github.io).
 
 If you want to build and run it locally, execute:
 
