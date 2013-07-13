@@ -1,0 +1,11 @@
+body
+{
+    background-color: white;
+}
+
+div#log
+{
+    font-family: monospace;
+    border-width: 1px;
+    border-style: dashed;
+}

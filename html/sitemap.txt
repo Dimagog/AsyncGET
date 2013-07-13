@@ -1,0 +1,8 @@
+http://dimagog.github.io/archive.html
+http://dimagog.github.io/atom.xml
+http://dimagog.github.io/categories.html
+http://dimagog.github.io/index.html
+http://dimagog.github.io/pages.html
+http://dimagog.github.io/rss.xml
+http://dimagog.github.io/sitemap.txt
+http://dimagog.github.io/tags.html
